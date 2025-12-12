@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lockinnn.github.io/sitemap.xml
