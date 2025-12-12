@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://lockinnn.github.io/</loc>
-  </url>
+  <url><loc>https://lockinnn.github.io/</loc></url>
+  <url><loc>https://lockinnn.github.io/about/</loc></url>
+  <url><loc>https://lockinnn.github.io/contact/</loc></url>
+  <url><loc>https://lockinnn.github.io/privacy/</loc></url>
+  <url><loc>https://lockinnn.github.io/terms/</loc></url>
+  <url><loc>https://lockinnn.github.io/biology/</loc></url>
+  <url><loc>https://lockinnn.github.io/chemistry/</loc></url>
+  <url><loc>https://lockinnn.github.io/physics/</loc></url>
+  <url><loc>https://lockinnn.github.io/maths-a/</loc></url>
+  <url><loc>https://lockinnn.github.io/ict/</loc></url>
+  <url><loc>https://lockinnn.github.io/computer-science/</loc></url>
+  <url><loc>https://lockinnn.github.io/business/</loc></url>
+  <url><loc>https://lockinnn.github.io/economics/</loc></url>
+  <url><loc>https://lockinnn.github.io/geography/</loc></url>
 </urlset>
